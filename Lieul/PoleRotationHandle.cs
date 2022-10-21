@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class RotationLerpHandle : MonoBehaviour
+//이정표 회전용
+public class PoleRotationHandle : MonoBehaviour
 {
     private void Update()
     {
